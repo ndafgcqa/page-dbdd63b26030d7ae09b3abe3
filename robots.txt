@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.4q57th.cn/sitemap.xml
